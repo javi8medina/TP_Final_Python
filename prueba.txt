@@ -1,1 +1,2 @@
-archivo de prueba editado en gothub
+archivo de prueba editado en github
+archivo editado localmente, hay que subirlo
