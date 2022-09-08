@@ -1,0 +1,16 @@
+background: image
+h1 {
+    line-height: 200px;
+}
+
+h3{
+    color: white;
+    }
+h4 {
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(95, 171, 206);
+    background: linear-gradient(45deg, black,rgb(29, 85, 110));   
+}
